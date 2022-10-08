@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 [My Blog](https://chen-12138.github.io/)
   <br/>
 
-![Jiancheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-12138&show_icons=true&theme=radical)
+![Jiancheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-12138&show_icons=true&theme=vue)
