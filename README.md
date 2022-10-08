@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Chen-12138/Chen-12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Chen-12138/Chen-12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+- 🌱 I’m currently learning react,vue,webpack,monorepo...
+- 🔭 Aspire to become an excellent front-end engineer~
+- 💬 WX: Lucky_Chen_12138
+- 😄 QQ: 1482409829
+- 📫 E-Mail: 1482409829@qq.com
+- 💬 [My Blog](https://chen-12138.github.io/)
+  <br/>
+
+![Jiancheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-12138&show_icons=true&theme=radical)
